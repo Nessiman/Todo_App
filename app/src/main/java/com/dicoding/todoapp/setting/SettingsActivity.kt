@@ -26,7 +26,7 @@ class SettingsActivity : AppCompatActivity() {
             if (isGranted) {
                 showToast("Notifications permission granted")
             } else {
-                showToast("Notifications will not show without permission")
+                showToast("Notifications will not show without permissio")
             }
         }
 
